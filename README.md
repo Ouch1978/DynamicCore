@@ -6,7 +6,7 @@ A OWIN sefl-host application that could host web api with Web API controller dll
 * Provide a easy and configurable hosting environment that provide the following functionalities:
     * Turn on/off controllers through editing the configuration file at runtime.
     * Provide help page and with xml description files supported.
-    * Logging both requests and responses.
+    * Standarized logging for both requests and responses.
     * Encrypt/Decrypt both requests and responses.
     * Able to extend for hosting additional services such as SignalR.
  
